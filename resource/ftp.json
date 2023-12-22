@@ -1,0 +1,9 @@
+{
+  "Ip": "192.168.123.16",
+  "Port": "4407",
+  "UserId": "guest",
+  "UserPassword": "samsungg2b!",
+  "LocalPath": "../temp/",
+  "BackupPath": "C:\\Users\\jskim\\Desktop\\백업\\",
+  "ServerPath": "/rexgen/consolidate/"
+}

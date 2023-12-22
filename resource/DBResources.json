@@ -1,0 +1,8 @@
+{
+  "Ip": "192.168.123.16",
+  "Port": 3306,
+  "Id": "samsungg2b",
+  "Password": "samsungg2b!",
+  "Database": "consolidate_crackdown",
+  "Table" : "crackdown_image_list_b"
+}
